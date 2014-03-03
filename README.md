@@ -56,7 +56,7 @@
 > sudo apt-get install nodejs npm
 
 
--Instalar Sublime Text 3
+- Instalar Sublime Text 3 (optional if you are not in a vbox)
 
 > sudo add-apt-repository ppa:webupd8team/sublime-text-3
 
@@ -64,7 +64,7 @@
 
 > sudo apt-get install sublime-text-installer
 
--Instalar Meteor
+- Instalar Meteor
 
 > sudo apt-get install curl
 
