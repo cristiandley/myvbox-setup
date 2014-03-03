@@ -64,10 +64,4 @@
 
 > sudo apt-get install sublime-text-installer
 
-- Instalar Meteor
 
-> sudo apt-get install curl
-
-> curl https://install.meteor.com | sh
-
-> npm install -g meteorite
