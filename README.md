@@ -1,5 +1,6 @@
 #My Ubuntu Server VBox setup
 ============
+============
 
 - System up to date
 
@@ -55,6 +56,16 @@
 
 > sudo apt-get install nodejs npm
 
+
+- Meteor
+
+> curl https://install.meteor.com | sh
+
+> npm install -g meteorite
+
+- GIT
+
+> sudo apt-get install git
 
 - Instalar Sublime Text 3 (optional if you are not in a vbox)
 
