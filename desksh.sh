@@ -1,6 +1,7 @@
 #!/bin/bash
 sudo apt-get update -y
 sudo apt-get upgrade -y
+sudo apt-get install git -y
 sudo add-apt-repository ppa:webupd8team/sublime-text-3 -y
 sudo apt-get update -y
 sudo apt-get install sublime-text-installer -y
