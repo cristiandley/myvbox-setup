@@ -36,8 +36,9 @@
 
 > sudo apt-get install mysql-server
 
-  CREATE USER 'mrbean'@'localhost' IDENTIFIED BY 'jhonyenglish';
-  GRANT ALL ON someDb.* TO 'mrbean'@'localhost';
+  > CREATE USER 'mrbean'@'localhost' IDENTIFIED BY 'jhonyenglish';
+  
+  > GRANT ALL ON someDb.* TO 'mrbean'@'localhost';
 
 - MongoDB
 
