@@ -36,6 +36,9 @@
 
 > sudo apt-get install mysql-server
 
+  CREATE USER 'mrbean'@'localhost' IDENTIFIED BY 'jhonyenglish';
+  GRANT ALL ON someDb.* TO 'mrbean'@'localhost';
+
 - MongoDB
 
 > sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
